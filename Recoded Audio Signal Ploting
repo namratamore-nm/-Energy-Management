@@ -105,3 +105,9 @@ stem(abs(FFT));
 title('Magnitude Spectrum of the Fourier Transform of the Audio signal');
 xlabel('Frequency (Hz)');
 ylabel('Amplitude');
+
+
+
+
+Recorded Audio Plot till date
+https://docs.google.com/document/d/1nrEs9UR-h-8xTPQVvkUdjPsT29jh_nHRs6GYMYC08PA/edit?usp=sharing
